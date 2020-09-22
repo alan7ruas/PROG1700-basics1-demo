@@ -1,2 +1,1 @@
-print("Hello Everyone in Canada!
-        Have a nice day")
+print("Hello Everyone in Canada! Have a nice day)
